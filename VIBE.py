@@ -1,6 +1,6 @@
 # Kimberli Shinkle
 # CIS261
-# WK10 Vibe Coding
+# WK10 VIBE Coding
 
 import os
 from typing import List
